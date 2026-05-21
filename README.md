@@ -1,7 +1,13 @@
 # Hi there, I'm Neelima Lakshmisetti 👋
-<a href="https://github.com/neelimalakshmisetti"><img src="https://img.shields.io/github/followers/neelimalakshmisetti?label=Follow&style=social" alt="GitHub Followers"></a>
+<p align="left">
+  <a href="https://github.com/neelimalakshmisetti"><img src="https://img.shields.io/github/followers/neelimalakshmisetti?label=Follow&style=social" alt="GitHub Followers"></a>
+  &nbsp;&nbsp;
+  <a href="https://neelimalakshmisetti.github.io/"><img src="https://img.shields.io/badge/🌐_Live_Portfolio-Website-blue?style=flat&logo=google-chrome&logoColor=white" alt="Live Portfolio"></a>
+</p>
 
 AI Engineer, Full-Stack Developer, and B.Tech CSE Student (2023 - 2027) at SRM University. Certified Java developer passionate about constructing GenAI-powered web products and building scalable software.
+
+🔗 **[Visit my Live Interactive Portfolio Website!](https://neelimalakshmisetti.github.io/)**
 
 ---
 
@@ -59,12 +65,12 @@ AI Engineer, Full-Stack Developer, and B.Tech CSE Student (2023 - 2027) at SRM U
 
 ### 📂 Featured Projects
 
-#### 🩺 [Healthify.ai](https://github.com/neelimalakshmisetti)
+#### 🩺 [Healthify.ai](https://neelimalakshmisetti.github.io/)
 - **Concept**: An AI-powered real-time healthcare assistant offering symptoms-based triage, doctor directories, and scheduling.
 - **Tech Stack**: `React.js`, `TypeScript`, `Tailwind CSS`, `Google Gemini API`.
 - **Highlights**: Top 5 Finalist at the TIC Startup Hackathon 2025. Combines responsive mobile layouts with prompt-engineered LLM conversational logic.
 
-#### 📈 [GlucoSim Glucose Simulator](https://github.com/neelimalakshmisetti)
+#### 📈 [GlucoSim Glucose Simulator](https://neelimalakshmisetti.github.io/)
 - **Concept**: Interactive simulation mapping glycemic response and metabolization rates based on meals (carbs/fat/protein) and medication inputs.
 - **Tech Stack**: `JavaScript`, `Chart.js`, `Health Analytics`.
 - **Highlights**: Employs mathematical models to plot real-time blood glucose charts, improving patient-facing health understanding.
